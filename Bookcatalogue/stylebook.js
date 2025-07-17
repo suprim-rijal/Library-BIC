@@ -1,4 +1,4 @@
-// Sample book data (10 books)
+
 const books = [
     {
         id: 1,
